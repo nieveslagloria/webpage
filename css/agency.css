@@ -50,9 +50,9 @@ a.active {
     font-weight: 600;
     font-size: 20px;
     color: #ffffff;
-    background-color: #1883ba;
+    background-color: hsl(128, 98%, 57%);;
     border-radius: 6px;
-    border: 2px solid #0016b0;
+    border: 2px solid hsl(128, 98%, 57%);
   }
  .btn:hover{
     color: #1883ba;
